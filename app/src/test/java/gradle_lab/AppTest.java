@@ -13,8 +13,8 @@ public class AppTest {
 
     @Test
     public void testSubtract() {
-        double result = App.subtract(10.5, 5.2);
-        assertEquals(5.3, result, 0.001);
+        double result = App.subtract(12.9, 2);
+        assertEquals(10.9, result, 0.001);
     }
 
     @Test
