@@ -17,7 +17,7 @@ public class App {
     }
     
     public static double add(double a, double b) {
-        return a + b;
+        return a + b; //щось поміняв
     }
     
     public static double subtract(double a, double b) { 
